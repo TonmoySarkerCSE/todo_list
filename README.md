@@ -1,6 +1,7 @@
 # todo_list
 
 # Admin
-username : admin
-password : 1234
+
+username : admin <br>
+password : 1234<br>
 email : admin@email.com
